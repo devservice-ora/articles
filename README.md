@@ -66,11 +66,12 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * Quantitative Research Correlation.pdf
 * Quantitative Research Study.pdf
 * Quantitative Research Z-score.pdf
-* Qualitative Research - Methodological Journal 1
-* Qualitative Research - Methodological Journal 2
-* Qualitative Research - Methodological Journal 3
-* Qualitative Research - Methodological Journal - Interview Protocol
-* Qualitative Research - Reflection
+* Qualitative Research - Methodological Journal 1.pdf
+* Qualitative Research - Methodological Journal 2.pdf
+* Qualitative Research - Methodological Journal 3.pdf
+* Qualitative Research - Methodological Journal - Interview Protocol.pdf
+* Qualitative Research - Methodological Journal - Interpretive Narrative.pdf
+* Qualitative Research - Reflection.pdf
 
 ### 7. Instructional Design, Assignments & Professional Practice
 Practical curriculum frameworks, lesson plans, expert interviews, and professional development strategies targeting technical support staff and faculty.
