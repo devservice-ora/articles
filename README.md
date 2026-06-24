@@ -60,12 +60,15 @@ Documents addressing the structural shifting toward "Learning Colleges," academi
 * Technology Infrastructure and Student Access.pdf
 * The structure of the Learning College.pdf
 
-### 6. Quantitative Research Methodology & Ethics
-Statistical analysis exercises, correlation studies, and certifications related to conducting rigorous, ethically sound human participant research.
+### 6. Qualitative and Quantitative Research Methodology & Ethics
+Research Methodology, Statistical analysis exercises, correlation studies, and certifications related to conducting rigorous, ethically sound human participant research.
 * Human Participant Protections Education for Research Teams.pdf
 * Quantitative Research Correlation.pdf
 * Quantitative Research Study.pdf
 * Quantitative Research Z-score.pdf
+* Qualitative Research - Methodological Journal 1
+* Qualitative Research - Methodological Journal 2
+* Qualitative Research - Methodological Journal 3
 
 ### 7. Instructional Design, Assignments & Professional Practice
 Practical curriculum frameworks, lesson plans, expert interviews, and professional development strategies targeting technical support staff and faculty.
