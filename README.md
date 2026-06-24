@@ -70,6 +70,7 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * Qualitative Research - Methodological Journal 2
 * Qualitative Research - Methodological Journal 3
 * Qualitative Research - Methodological Journal - Interview Protocol
+* Qualitative Research - Reflection
 
 ### 7. Instructional Design, Assignments & Professional Practice
 Practical curriculum frameworks, lesson plans, expert interviews, and professional development strategies targeting technical support staff and faculty.
