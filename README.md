@@ -8,12 +8,12 @@ This repository serves as a comprehensive digital archive of research papers, ca
 
 ### 1. Educational Philosophy & Theory
 Essays and frameworks exploring foundational pedagogical ideologies, student affairs guidance, and personal teaching frameworks.
-* A Discussion on Discovery School.pdf
-* Educational Philosophy - Perennialism.pdf
-* Educational Philosophy - Progressivism.pdf
-* [Personal Philosophy of Education.pdf](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
-* Philosophies And Values Guiding The Student Affairs Professional.pdf
-* The benefits of constructivist approaches for primary learners.pdf
+* [A Discussion on Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf "A Discussion on Discovery School")
+* [Educational Philosophy - Perennialism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Perennialism.pdf "Educational Philosophy - Perennialism")
+* [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf "Educational Philosophy - Progressivism")
+* [Personal Philosophy of Education](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
+* [Philosophies And Values Guiding The Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf "Philosophies And Values Guiding The Student Affairs Professional")
+* [The benefits of constructivist approaches for primary learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf "The benefits of constructivist approaches for primary learners")
 
 ### 2. Educational Technology & "MindTools"
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
