@@ -60,14 +60,14 @@ Documents addressing the structural shifting toward "Learning Colleges," academi
 * Technology Infrastructure and Student Access.pdf
 * The structure of the Learning College.pdf
 
-### 6. Ethics
+### 6. Law, Ethics, and Equity
 Documents addressing Law, Ethics, and Equity in Education
 * Ethical Assessment.pdf
 * Ethical Construct.pdf
 * Personal Ethics.pdf
 * Law Ethics and Equity.pdf
   
-### 7. Qualitative and Quantitative Research Methodology & Ethics
+### 7. Qualitative and Quantitative Research Methodology
 Research Methodology, Statistical analysis exercises, correlation studies, and certifications related to conducting rigorous, ethically sound human participant research.
 * Human Participant Protections Education for Research Teams.pdf
 * Quantitative Research Correlation.pdf
