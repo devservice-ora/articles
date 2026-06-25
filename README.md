@@ -11,7 +11,7 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 * A Discussion on Discovery School.pdf
 * Educational Philosophy - Perennialism.pdf
 * Educational Philosophy - Progressivism.pdf
-* Personal Philosophy of Education.pdf
+* [Personal Philosophy of Education.pdf](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
 * Philosophies And Values Guiding The Student Affairs Professional.pdf
 * The benefits of constructivist approaches for primary learners.pdf
 
