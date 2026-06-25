@@ -8,44 +8,44 @@ This repository serves as a comprehensive digital archive of research papers, ca
 
 ### 1. Educational Philosophy & Theory
 Essays and frameworks exploring foundational pedagogical ideologies, student affairs guidance, and personal teaching frameworks.
-* [A Discussion on Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf "A Discussion on Discovery School")
-* [Educational Philosophy - Perennialism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Perennialism.pdf "Educational Philosophy - Perennialism")
-* [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf "Educational Philosophy - Progressivism")
+* [A Discussion on Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf)
+* [Educational Philosophy - Perennialism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Perennialism.pdf)
+* [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf)
 * [Personal Philosophy of Education](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
-* [Philosophies And Values Guiding The Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf "Philosophies And Values Guiding The Student Affairs Professional")
-* [The benefits of constructivist approaches for primary learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf "The benefits of constructivist approaches for primary learners")
+* [Philosophies And Values Guiding The Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
+* [The benefits of constructivist approaches for primary learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
 
 ### 2. Educational Technology & "MindTools"
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
-* Concept Maps and Semantic Networks.pdf
-* Concept Maps are mind tools.pdf
-* Examining spreadsheets and databases in relation to their use for fostering higher-order thinking skills in learners.pdf
-* MindTools.pdf
-* MindTools - Concept Maps and Semantic Networks.pdf
-* MindTools - Database and Relationship.pdf
-* MindTools - Teaching Tools.pdf
-* Technology Integration in a Learning Environment.pdf
+* [Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20and%20Semantic%20Networks.pdf)
+* [Concept Maps are mind tools](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20are%20mind%20tools.pdf)
+* [Examining spreadsheets and databases in relation to their use for fostering higher-order thinking skills in learners.pdf](https://github.com/devservice-ora/articles/blob/main/Examining%20spreadsheets%20and%20databases%20in%20relation%20to%20their%20use%20for%20fostering%20higher-order%20thinking%20skills%20in%20learners.pdf)
+* [MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)
+* [MindTools - Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf)
+* [MindTools - Database and Relationship](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf)
+* [MindTools - Teaching Tools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Teaching%20Tools.pdf)
+* [Technology Integration in a Learning Environment](https://github.com/devservice-ora/articles/blob/main/Technology%20Integration%20in%20a%20Learning%20Environment.pdf)
 
 ### 3. Audio & Mobile Learning (Podcasting Research)
 A specialized cluster of research—including dissertation work—investigating the instructional effectiveness and student performance impact of classroom podcasting and mobile trends.
-* Dissertation - A Case Study of the Classroom Podcast.pdf
-* Effect of Educational Podcasts on Student Performance.pdf
-* Mobile Technology Trends in Higher Education.pdf
-* Podcasting for instructional effectiveness.pdf
-* Podcasts and Review of Related Literature.pdf
-* The Examination of Mobile Technology Trends.pdf
+* [Dissertation - A Case Study of the Classroom Podcast](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf)
+* [Effect of Educational Podcasts on Student Performance](https://github.com/devservice-ora/articles/blob/main/Effect%20of%20Educational%20Podcasts%20on%20Student%20Performance.pdf)
+* [Mobile Technology Trends in Higher Education](https://github.com/devservice-ora/articles/blob/main/Mobile%20Technology%20Trends%20in%20Higher%20Education.pdf)
+* [Podcasting for instructional effectiveness](https://github.com/devservice-ora/articles/blob/main/Podcasting%20for%20instructional%20effectiveness.pdf)
+* [Podcasts and Review of Related Literature](https://github.com/devservice-ora/articles/blob/main/Podcasts%20and%20Review%20of%20Related%20Literature.pdf)
+* [The Examination of Mobile Technology Trends](https://github.com/devservice-ora/articles/blob/main/The%20Examination%20of%20Mobile%20Technology%20Trends.pdf)
 
 ### 4. Leadership, Strategy & Organizational Change
 Case studies and strategic analyses regarding institutional finance, the change process, software procurement, and organizational management within educational systems.
-* An evaluation strategy related to the selection and purchase of new software.pdf
-* Budget Philosophy - New Ways To Work Learn and Teach.pdf
-* Leadership Case Study - New High School.pdf
-* Philosophy of Leadership Styles.pdf
-* Software Evaluation.pdf
-* Strategic Choice Theory.pdf
-* Strategic Planning and Finance.pdf
-* The case study that synthesizes your knowledge of the change process, knowledge of instructional design.pdf
-* The importance of timing, the introduction of new software in a work environment.pdf
+* [An evaluation strategy related to the selection and purchase of new software](https://github.com/devservice-ora/articles/blob/main/An%20evaluation%20strategy%20related%20to%20the%20selection%20and%20purchase%20of%20new%20software.pdf)
+* [Budget Philosophy - New Ways To Work Learn and Teach](https://github.com/devservice-ora/articles/blob/main/Budget%20Philosophy%20-%20New%20Ways%20To%20Work%20Learn%20and%20Teach.pdf)
+* [Leadership Case Study of a New High School](https://github.com/devservice-ora/articles/blob/main/Leadership%20Case%20Study%20-%20New%20High%20School.pdf)
+* [Philosophy of Leadership Styles](https://github.com/devservice-ora/articles/blob/main/Philosophy%20of%20Leadership%20Styles.pdf)
+* [Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Software%20Evaluation.pdf)
+* [Strategic Choice Theory](https://github.com/devservice-ora/articles/blob/main/Strategic%20Choice%20Theory.pdf)
+* [Strategic Planning and Finance](https://github.com/devservice-ora/articles/blob/main/Strategic%20Planning%20and%20Finance.pdf)
+* [The case study that synthesizes your knowledge of the change process, knowledge of instructional design](https://github.com/devservice-ora/articles/blob/main/The%20case%20study%20that%20synthesizes%20your%20knowledge%20of%20the%20change%20process%2C%20knowledge%20of%20instructional%20design.pdf)
+* [The importance of timing, the introduction of new software in a work environment](https://github.com/devservice-ora/articles/blob/main/The%20importance%20of%20timing%2C%20the%20introduction%20of%20new%20software%20in%20a%20work%20environment.pdf)
 
 ### 5. Institutional Design, Student Affairs & Higher Ed
 Documents addressing the structural shifting toward "Learning Colleges," academic advising protocols, student rights, and electronic student services.
