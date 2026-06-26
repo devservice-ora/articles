@@ -79,6 +79,7 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * [Qualitative Research - Methodological Journal: Interview Protocol](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%20-%20Interview%20Protocol.pdf)
 * [Qualitative Research - Methodological Journal: Interpretive Narrative](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%20-%20Interpretive%20Narrative.pdf)
 * [Qualitative Research - Reflection](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Reflection.pdf)
+* [Qualitative Research - Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20Software%20Evaluation.pdf)
 
 ### 8. Instructional Design, Assignments & Professional Practice
 Practical curriculum frameworks, lesson plans, expert interviews, and professional development strategies targeting technical support staff and faculty.
