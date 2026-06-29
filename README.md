@@ -14,6 +14,8 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 * [Personal Philosophy of Education](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
 * [Philosophies and Values Guiding the Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
 * [The Benefits of Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
+* [Comprehensive Exam - Organizational Theory](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
+* [Comprehensive Exam - Leadership Theory](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
 
 ### 2. Educational Technology & "MindTools"
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
@@ -80,6 +82,7 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * [Qualitative Research - Methodological Journal: Interpretive Narrative](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%20-%20Interpretive%20Narrative.pdf)
 * [Qualitative Research - Reflection](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Reflection.pdf)
 * [Qualitative Research - Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20Software%20Evaluation.pdf)
+* [Comprehensive Exam - Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
 
 ### 8. Instructional Design, Assignments & Professional Practice
 Practical curriculum frameworks, lesson plans, expert interviews, and professional development strategies targeting technical support staff and faculty.
