@@ -108,6 +108,7 @@ Biographical text and literary reviews providing foundational background context
   * **Question 2:** [Historical development and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
   * **Question 3:** [Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
+* [My Twenty-Five Years Memoir - 2009](https://github.com/devservice-ora/articles/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf)
 * [Mid-Life Career - Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
 * [Share Your Favorite Websites](https://github.com/devservice-ora/articles/blob/main/Share%20Your%20Favorite%20Websites.pdf)
 * [Website Reviews](https://github.com/devservice-ora/articles/blob/main/Website%20Reviews.pdf)
