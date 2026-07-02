@@ -30,6 +30,11 @@ Research focusing on how digital applications, databases, spreadsheets, and cogn
 * [MindTools - Database and Relationship](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf)
 * [MindTools - Teaching Tools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Teaching%20Tools.pdf)
 * [Technology Integration in a Learning Environment](https://github.com/devservice-ora/articles/blob/main/Technology%20Integration%20in%20a%20Learning%20Environment.pdf)
+* [The Importance of Timing: Introducing New Software in the Workplace](https://github.com/devservice-ora/articles/blob/main/The%20importance%20of%20timing%2C%20the%20introduction%20of%20new%20software%20in%20a%20work%20environment.pdf)
+* [Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Software%20Evaluation.pdf)
+* [Website Reviews](https://github.com/devservice-ora/articles/blob/main/Website%20Reviews.pdf)
+* [Share Your Favorite Websites](https://github.com/devservice-ora/articles/blob/main/Share%20Your%20Favorite%20Websites.pdf)
+
 
 ### 3. Audio & Mobile Learning (Podcasting Research)
 A specialized cluster of research—including dissertation work—investigating the instructional effectiveness and student performance impact of classroom podcasting and mobile trends.
@@ -46,11 +51,9 @@ Case studies and strategic analyses regarding institutional finance, the change 
 * [Budget Philosophy - New Ways to Work, Learn, and Teach](https://github.com/devservice-ora/articles/blob/main/Budget%20Philosophy%20-%20New%20Ways%20To%20Work%20Learn%20and%20Teach.pdf)
 * [Leadership Case Study of a New High School](https://github.com/devservice-ora/articles/blob/main/Leadership%20Case%20Study%20-%20New%20High%20School.pdf)
 * [Philosophy of Leadership Styles](https://github.com/devservice-ora/articles/blob/main/Philosophy%20of%20Leadership%20Styles.pdf)
-* [Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Software%20Evaluation.pdf)
 * [Strategic Choice Theory](https://github.com/devservice-ora/articles/blob/main/Strategic%20Choice%20Theory.pdf)
 * [Strategic Planning and Finance](https://github.com/devservice-ora/articles/blob/main/Strategic%20Planning%20and%20Finance.pdf)
 * [Synthesis Case Study: Change Process and Instructional Design](https://github.com/devservice-ora/articles/blob/main/The%20case%20study%20that%20synthesizes%20your%20knowledge%20of%20the%20change%20process%2C%20knowledge%20of%20instructional%20design.pdf)
-* [The Importance of Timing: Introducing New Software in the Workplace](https://github.com/devservice-ora/articles/blob/main/The%20importance%20of%20timing%2C%20the%20introduction%20of%20new%20software%20in%20a%20work%20environment.pdf)
 
 ### 5. Institutional Design, Student Affairs & Higher Ed
 Documents addressing the structural shifting toward "Learning Colleges," academic advising protocols, student rights, and electronic student services.
@@ -110,8 +113,6 @@ Biographical text and literary reviews providing foundational background context
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [My Twenty-Five Years Memoir - 2009](https://github.com/devservice-ora/articles/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf)
 * [Mid-Life Career - Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
-* [Share Your Favorite Websites](https://github.com/devservice-ora/articles/blob/main/Share%20Your%20Favorite%20Websites.pdf)
-* [Website Reviews](https://github.com/devservice-ora/articles/blob/main/Website%20Reviews.pdf)
 
 ---
 
