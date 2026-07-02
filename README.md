@@ -107,9 +107,9 @@ Practical curriculum frameworks, lesson plans, expert interviews, and profession
 Biographical text and literary reviews providing foundational background context.
 * [Book Review - Computer Geek to Cult Icon](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
 * [Comprehensive Exams](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Exams.pdf)
-  * **Question 1:** [Rethink their core reasons for existence, including their values](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
-  * **Question 2:** [Historical development and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
-  * **Question 3:** [Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
+  >* **Question 1:** [Rethink their core reasons for existence, including their values](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
+  >* **Question 2:** [Historical development and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
+  >* **Question 3:** [Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [My Twenty-Five Years Memoir - 2009](https://github.com/devservice-ora/articles/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf)
 * [Mid-Life Career - Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
