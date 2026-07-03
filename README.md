@@ -15,7 +15,7 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
     >* [My Father My Unsung Hero](https://github.com/devservice-ora/articles/blob/main/JPham-My%20Father%20My%20Unsung%20Hero-Published%20%20in%20The%20Valley%20Catholic.pdf "Related to life philosophy and values")
     >* [This I Believe by SPham](https://github.com/devservice-ora/articles/blob/main/SPham-This%20I%20Believe-Published%20%20in%20The%20Valley%20Catholic.pdf)
     >* [This I Believe by BPham](https://github.com/devservice-ora/articles/blob/main/BPham-This%20I%20Believe-Published%20%20in%20The%20Valley%20Catholic.pdf)
-    >* [Trustworthy by BPham](https://github.com/devservice-ora/articles/blob/main/vietnamese/2014-4-Uy%20Tin-Uy%20Tin.pdf)
+    >* [About Honesty by BPham](https://github.com/devservice-ora/articles/blob/main/vietnamese/2014-4-Uy%20Tin-Uy%20Tin.pdf)
 * [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 * [Philosophies and Values Guiding the Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
 * [The Benefits of Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
