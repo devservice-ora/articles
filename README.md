@@ -1,6 +1,6 @@
 # Academic & Professional Works Repository
 
-This repository, created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**, serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays documenting an extensive body of work in education, technology integration, and leadership.
+This **[GitHub 2026](https://github.com/devservice-ora)** project, created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**, serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays documenting an extensive body of work in education, technology integration, and leadership.
 
 > See [Jim D. Pham's Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
 ---
