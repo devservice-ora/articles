@@ -17,16 +17,13 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 * [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 * [Philosophies and Values Guiding the Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
 * [The Benefits of Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
-* [Comprehensive Exam - Organizational Theory](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
-* [Comprehensive Exam - Leadership Theory](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
+* [Institutional Research - Organizational Theory - Rethink their core reasons for existence](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
+* [Leadership Theory](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
 
 ### 2. Educational Technology & "MindTools"
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
 * [Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20and%20Semantic%20Networks.pdf)
-* [Concept Maps Are MindTools](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20are%20mind%20tools.pdf)
-* [Examining Spreadsheets and Databases for Fostering Higher-Order Thinking Skills](https://github.com/devservice-ora/articles/blob/main/Examining%20spreadsheets%20and%20databases%20in%20relation%20to%20their%20use%20for%20fostering%20higher-order%20thinking%20skills%20in%20learners.pdf)
 * [MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)
-* [MindTools - Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Concept%20Maps%20and%20Semantic%20Networks.pdf)
 * [MindTools - Database and Relationship](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf)
 * [MindTools - Teaching Tools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Teaching%20Tools.pdf)
 * [Technology Integration in a Learning Environment](https://github.com/devservice-ora/articles/blob/main/Technology%20Integration%20in%20a%20Learning%20Environment.pdf)
@@ -54,6 +51,7 @@ Case studies and strategic analyses regarding institutional finance, the change 
 * [Strategic Choice Theory](https://github.com/devservice-ora/articles/blob/main/Strategic%20Choice%20Theory.pdf)
 * [Strategic Planning and Finance](https://github.com/devservice-ora/articles/blob/main/Strategic%20Planning%20and%20Finance.pdf)
 * [Synthesis Case Study: Change Process and Instructional Design](https://github.com/devservice-ora/articles/blob/main/The%20case%20study%20that%20synthesizes%20your%20knowledge%20of%20the%20change%20process%2C%20knowledge%20of%20instructional%20design.pdf)
+* [Historical development and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
 
 ### 5. Institutional Design, Student Affairs & Higher Ed
 Documents addressing the structural shifting toward "Learning Colleges," academic advising protocols, student rights, and electronic student services.
@@ -88,7 +86,7 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * [Qualitative Research - Methodological Journal: Interpretive Narrative](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%20-%20Interpretive%20Narrative.pdf)
 * [Qualitative Research - Reflection](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Reflection.pdf)
 * [Qualitative Research - Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20Software%20Evaluation.pdf)
-* [Comprehensive Exam - Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
+* [Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
 
 ### 8. Instructional Design, Assignments & Professional Practice
 Practical curriculum frameworks, lesson plans, expert interviews, and professional development strategies targeting technical support staff and faculty.
@@ -106,10 +104,7 @@ Practical curriculum frameworks, lesson plans, expert interviews, and profession
 ### 9. Historical Context & Reviews
 Biographical text and literary reviews providing foundational background context.
 * [Book Review - Computer Geek to Cult Icon](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
-* [Comprehensive Exams](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Exams.pdf)
-  >* **[Rethink their core reasons for existence, including their values](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)**
-  >* **[Historical development and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)**
-  >* **[Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)**
+* [Comprehensive Exams](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Exams.pdf)  
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [My Twenty-Five Years Memoir - 2009](https://github.com/devservice-ora/articles/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf)
 * [Mid-Life Career - Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
