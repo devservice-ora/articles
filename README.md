@@ -14,11 +14,9 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 * [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf)
 * [Personal Philosophy of Education](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
     > [My Father My Unsung Hero](https://github.com/devservice-ora/articles/blob/main/JPham-My%20Father%20My%20Unsung%20Hero-Published%20%20in%20The%20Valley%20Catholic.pdf "Related to life philosophy and values")    
-* [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 * [Philosophies and Values Guiding the Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
 * [The Benefits of Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
-* [Institutional Research - Organizational Theory - Rethink their core reasons for existence](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
-* [Leadership Theory](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
+* [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
 ### 2. Educational Technology & "MindTools"
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
@@ -46,12 +44,12 @@ A specialized cluster of research—including dissertation work—investigating 
 Case studies and strategic analyses regarding institutional finance, the change process, software procurement, and organizational management within educational systems.
 * [An Evaluation Strategy for Software Selection and Purchase](https://github.com/devservice-ora/articles/blob/main/An%20evaluation%20strategy%20related%20to%20the%20selection%20and%20purchase%20of%20new%20software.pdf)
 * [Budget Philosophy - New Ways to Work, Learn, and Teach](https://github.com/devservice-ora/articles/blob/main/Budget%20Philosophy%20-%20New%20Ways%20To%20Work%20Learn%20and%20Teach.pdf)
+* [Examination of the history, development, and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
 * [Leadership Case Study of a New High School](https://github.com/devservice-ora/articles/blob/main/Leadership%20Case%20Study%20-%20New%20High%20School.pdf)
 * [Philosophy of Leadership Styles](https://github.com/devservice-ora/articles/blob/main/Philosophy%20of%20Leadership%20Styles.pdf)
 * [Strategic Choice Theory](https://github.com/devservice-ora/articles/blob/main/Strategic%20Choice%20Theory.pdf)
 * [Strategic Planning and Finance](https://github.com/devservice-ora/articles/blob/main/Strategic%20Planning%20and%20Finance.pdf)
 * [Synthesis Case Study: Change Process and Instructional Design](https://github.com/devservice-ora/articles/blob/main/The%20case%20study%20that%20synthesizes%20your%20knowledge%20of%20the%20change%20process%2C%20knowledge%20of%20instructional%20design.pdf)
-* [Historical development and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
 
 ### 5. Institutional Design, Student Affairs & Higher Ed
 Documents addressing the structural shifting toward "Learning Colleges," academic advising protocols, student rights, and electronic student services.
@@ -61,6 +59,7 @@ Documents addressing the structural shifting toward "Learning Colleges," academi
 * [eStudent Services](https://github.com/devservice-ora/articles/blob/main/eStudent%20Services.pdf)
 * [Learning College](https://github.com/devservice-ora/articles/blob/main/Learning%20College.pdf)
 * [Legal Foundations of Student Affairs Practice](https://github.com/devservice-ora/articles/blob/main/Legal%20Foundations%20of%20Student%20Affairs%20Practice.pdf)
+* [Institutional Research - Organizational Theory - Rethink their core reasons for existence](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
 * [Reader Workshop - Student Rights](https://github.com/devservice-ora/articles/blob/main/Reader%20Workshop%20-%20Student%20Rights.pdf)
 * [Student Rights - Educational Testing Service](https://github.com/devservice-ora/articles/blob/main/Student%20Right%20-%20Educational%20Testing%20Service.pdf)
 * [Technology Infrastructure and Student Access](https://github.com/devservice-ora/articles/blob/main/Technology%20Infrastructure%20and%20Student%20Access.pdf)
