@@ -20,6 +20,8 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 
 ### 2. Educational Technology & "MindTools"
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
+* [AI Mindtools Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md)
+* [AI Mindtools and Mapping Framework](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md)
 * [Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20and%20Semantic%20Networks.pdf)
 * [MindTools](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)
 * [MindTools - Database and Relationship](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf)
