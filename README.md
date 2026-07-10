@@ -63,6 +63,7 @@ Documents addressing the structural shifting toward "Learning Colleges," academi
 * [Legal Foundations of Student Affairs Practice](https://github.com/devservice-ora/articles/blob/main/Legal%20Foundations%20of%20Student%20Affairs%20Practice.pdf)
 * [Institutional Research - Organizational Theory - Rethink their core reasons for existence](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-1.pdf)
 * [Reader Workshop - Student Rights](https://github.com/devservice-ora/articles/blob/main/Reader%20Workshop%20-%20Student%20Rights.pdf)
+* [Student Affairs in an Increasingly Multicultural World](https://github.com/devservice-ora/articles/blob/main/Student%20Affairs%20in%20an%20Increasingly%20Multicultural%20World.pdf)
 * [Student Rights - Educational Testing Service](https://github.com/devservice-ora/articles/blob/main/Student%20Right%20-%20Educational%20Testing%20Service.pdf)
 * [Technology Infrastructure and Student Access](https://github.com/devservice-ora/articles/blob/main/Technology%20Infrastructure%20and%20Student%20Access.pdf)
 * [The Structure of the Learning College](https://github.com/devservice-ora/articles/blob/main/The%20structure%20of%20the%20Learning%20College.pdf)
