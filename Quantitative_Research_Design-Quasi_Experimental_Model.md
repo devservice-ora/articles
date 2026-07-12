@@ -1,6 +1,8 @@
-This research design model is built upon the empirical framework established by Dr. Jim D. Pham’s [dissertation](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf), leveraging his quasi-experimental findings to provide a standardized approach for educational research design.
+# 🔍 Research Design Description: Two-Group Nonequivalent Control Group Quasi-Experimental Model
 
-# Research Design Description: Two-Group Nonequivalent Control Group Quasi-Experimental Model
+This research design model is built upon the experimental framework from Dr. Jim D. Pham's [dissertation](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf), leveraging his semi-experimental research findings to provide a standardized methodology for educational research design.
+
+---
 
 ## Overview
 This methodological blueprint models a **Quasi-Experimental Two-Group Nonequivalent Control Group Design**. It provides a structured framework for evaluating the impact of an independent variable intervention (e.g., educational technology, programmatic shifts, or training protocols) when random assignment of individual participants is structurally or logistically unfeasible. By establishing parallel treatment and comparison tracks across intact baseline clusters, tracking temporal changes via pre/post observations, and applying rigid statistical controls (such as ANCOVA and homoscedasticity diagnostics), this design optimizes internal validity within complex, real-world field environments.
