@@ -83,6 +83,8 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * [Quantitative Research Correlation](https://github.com/devservice-ora/articles/blob/main/Quantitative%20Research%20Correlation.pdf)
 * [Quantitative Research Study](https://github.com/devservice-ora/articles/blob/main/Quantitative%20Research%20Study.pdf)
 * [Quantitative Research Z-Score](https://github.com/devservice-ora/articles/blob/main/Quantitative%20Research%20Z-score.pdf)
+* [Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
+* [Quantitative Research Design: Two-Group Nonequivalent Control Group Quasi-Experimental Model](https://github.com/devservice-ora/articles/blob/main/Quantitative_Research_Design-Quasi_Experimental_Model.md)
 * [Qualitative Research - Methodological Journal 1](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%201.pdf)
 * [Qualitative Research - Methodological Journal 2](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%202.pdf)
 * [Qualitative Research - Methodological Journal 3](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%203.pdf)
@@ -90,7 +92,6 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * [Qualitative Research - Methodological Journal: Interpretive Narrative](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%20-%20Interpretive%20Narrative.pdf)
 * [Qualitative Research - Reflection](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Reflection.pdf)
 * [Qualitative Research - Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20Software%20Evaluation.pdf)
-* [Quantitative and Qualitative Research Design](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-3.pdf)
 
 ### 8. Instructional Design, Assignments & Professional Practice
 Practical curriculum frameworks, lesson plans, expert interviews, and professional development strategies targeting technical support staff and faculty.
