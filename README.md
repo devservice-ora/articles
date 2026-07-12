@@ -32,6 +32,7 @@ Research focusing on how digital applications, databases, spreadsheets, and cogn
 * [Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Software%20Evaluation.pdf)
 * [Website Reviews](https://github.com/devservice-ora/articles/blob/main/Website%20Reviews.pdf)
 * [Share Your Favorite Websites](https://github.com/devservice-ora/articles/blob/main/Share%20Your%20Favorite%20Websites.pdf)
+* [Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md)
 
 
 ### 3. Audio & Mobile Learning (Podcasting Research)
