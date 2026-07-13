@@ -1,4 +1,4 @@
-# 🔍 Quantitative Research Design: Two-Group Nonequivalent Control Group Quasi-Experimental Models
+# 🔍 Quantitative Research Design: Two-Group Nonequivalent Control Group Quasi-Experimental Model
 
 This research design model is built upon the experimental framework from Dr. Jim D. Pham's [dissertation](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf), leveraging his experimental research findings to provide a standardized methodology for educational empirical study applications.
 
