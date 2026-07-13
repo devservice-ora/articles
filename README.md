@@ -1,6 +1,6 @@
 # Academic & Professional Works Repository
 
-This **[GitHub](https://github.com/devservice-ora)** project 2026 was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**, serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays documenting an extensive body of work in education, technology integration, and leadership.
+This **[GitHub](https://github.com/devservice-ora)** project, ***2026***, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. It serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays that document a significant body of work in education, technology integration, and leadership. The goal of this project is to contribute to societal knowledge and disseminate information about artificial intelligence (AI) and its impact on the future of education.
 
 > See [Jim D. Pham's Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
 ---
@@ -20,7 +20,7 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 
 ### 2. Educational Technology & "MindTools"
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
-* [AI Mindtools Adaptive Model Problem Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
+* [AI Mindtools Adaptive Model: One Truth, Many Paths](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md)
 * [AI Mindtools Framework: Engineering & Cognitive Problem-Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md)
 * [AI Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md)
 * [Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20and%20Semantic%20Networks.pdf)
