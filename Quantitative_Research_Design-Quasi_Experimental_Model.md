@@ -7,12 +7,6 @@ This research design model is built upon the experimental framework from Dr. Jim
 ## Overview
 This methodological blueprint models a **Quasi-Experimental Two-Group Nonequivalent Control Group Design**. It provides a structured framework for evaluating the impact of an independent variable intervention (e.g., educational technology, programmatic shifts, or training protocols) when random assignment of individual participants is structurally or logistically unfeasible. By establishing parallel treatment and comparison tracks across intact baseline clusters, tracking temporal changes via pre/post observations, and applying rigid statistical controls (such as ANCOVA and homoscedasticity diagnostics), this empirical study design optimizes internal validity within complex, real-world field environments.
 
-## Longitudinal Timeline: When to Deploy the Study
-An ideal entry point to launch this specific quasi-experimental empirical study is at the **onset of a new academic term (e.g., Week 1 of a Fall semester)**. Initiating the study at this exact chronological milestone is critical for several structural reasons:
-* **Baseline Synchronization (O1):** Administered during the first week of class, this step profiles the pre-existing technical literacy and historical academic metrics of the intact cohorts before any intervention material is consumed.
-* **Curricular Alignment:** Aligning the timeline to the start of a standard term allows the treatment group's schedule to perfectly mirror the historical comparison track (e.g., a baseline group from a previous Spring semester), ensuring both groups experience identical instructional durations leading up to the Midterm and Final examinations.
-* **Intervention Acclimatization (X):** Delivering detailed technical orientations and onboarding feeds in Week 1 provides participants with a necessary buffer to integrate the mobile platform or sync workflows into their regular study habits well ahead of testing cycles.
-
 ---
 
 ### Longitudinal Timeline: When to Deploy the Study
