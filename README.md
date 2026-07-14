@@ -20,10 +20,10 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 
 ### 2. Educational Technology & *MindTools*
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
-* **[Mindtools Adaptive Model: One Truth, Many Paths](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md):** New *2026*.
-* **[Mindtools Framework: Engineering & Cognitive Problem-Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** New *2026*.
-* **[Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** New *2026*.
-* **[Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md):** A new learning model developed in *2026*.
+* **[Mindtools Adaptive Model: One Truth, Many Paths](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Adaptive_Model_Problem_Solving.md):** *New* 2026.
+* **[Mindtools Framework: Engineering & Cognitive Problem-Solving](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_Framework.md):** *New* 2026.
+* **[Mindtools and Mapping Framework: Engineering & Cognitive Mapping Strategies](https://github.com/devservice-ora/AI/blob/main/AI_Mindtools_and_Mapping_Framework.md):** *New* 2026.
+* **[Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md):** A *new* learning model developed in 2026.
 * [MindTools - Basic Concepts](https://github.com/devservice-ora/articles/blob/main/MindTools.pdf)
 * [MindTools - Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20and%20Semantic%20Networks.pdf)
 * [MindTools - Database and Relationship](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf)
