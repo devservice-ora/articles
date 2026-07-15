@@ -2,6 +2,8 @@
 
 This **[GitHub](https://github.com/devservice-ora)** project, *2026*, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. It serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays that document a significant body of work in education, technology integration, and leadership. The goal of this project is to contribute to societal knowledge and disseminate information about artificial intelligence (AI) and its impact on the future of education.
 
+Knowledge is meant to be shared. *if information is not openly discussed and shared, it is likely to be forgotten over time.*
+
 > See [Jim D. Pham's Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
 ---
 
