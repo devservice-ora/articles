@@ -115,6 +115,7 @@ Biographical text and literary reviews providing foundational background context
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [My Twenty-Five Years Memoir - 2009](https://github.com/devservice-ora/articles/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf)
 * [Mid-Life Career - Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
+* [Collection of Academic & Technical Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
 * [A collection of selected articles in Vietnamese](https://github.com/devservice-ora/vn)
 
 ---
