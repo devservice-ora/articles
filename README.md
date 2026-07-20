@@ -2,7 +2,7 @@
 
 This **[GitHub](https://github.com/devservice-ora)** project, *2026*, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. It serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays that document a significant body of work in education, technology integration, and leadership. The goal of this project is to contribute to societal knowledge and disseminate information about artificial intelligence (AI) and its impact on the future of education.
 
-Knowledge is meant to be shared. *if information is not openly discussed and shared, it is likely to be forgotten over time.*
+Knowledge is meant to be shared. *If information is not openly discussed and shared, it is likely to be forgotten over time.*
 
 > See [Jim D. Pham's Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
 ---
@@ -12,6 +12,7 @@ Knowledge is meant to be shared. *if information is not openly discussed and sha
 ### 1. Educational Philosophy & Theory
 Essays and frameworks exploring foundational pedagogical ideologies, student affairs guidance, and personal teaching frameworks.
 * [A Discussion on Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf)
+* [ Educational Theory & Adult Pedagogy](https://github.com/devservice-ora/presentations#2--educational-theory--adult-pedagogy)
 * [Educational Philosophy - Perennialism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Perennialism.pdf)
 * [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf)
 * [Personal Philosophy of Education](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
@@ -30,6 +31,7 @@ Research focusing on how digital applications, databases, spreadsheets, and cogn
 * [MindTools - Concept Maps and Semantic Networks](https://github.com/devservice-ora/articles/blob/main/Concept%20Maps%20and%20Semantic%20Networks.pdf)
 * [MindTools - Database and Relationship](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Database%20and%20Relationship.pdf)
 * [MindTools - Teaching Tools](https://github.com/devservice-ora/articles/blob/main/MindTools%20-%20Teaching%20Tools.pdf)
+* [Educational Technology & E-Learning Infrastructure](https://github.com/devservice-ora/presentations#3-%EF%B8%8F-educational-technology--e-learning-infrastructure)
 * [Technology Integration in a Learning Environment](https://github.com/devservice-ora/articles/blob/main/Technology%20Integration%20in%20a%20Learning%20Environment.pdf)
 * [The Importance of Timing: Introducing New Software in the Workplace](https://github.com/devservice-ora/articles/blob/main/The%20importance%20of%20timing%2C%20the%20introduction%20of%20new%20software%20in%20a%20work%20environment.pdf)
 * [Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Software%20Evaluation.pdf)
