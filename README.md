@@ -118,7 +118,7 @@ Biographical text and literary reviews providing foundational background context
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [Computer Geek to Cult Icon (Book Review)](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
 * [Collection of Academic & Technical Lectures and Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
-* [Collection of selected published articles in Vietnamese](https://github.com/devservice-ora/vn)
+* [Collection of selected published articles in Vietnamese](https://github.com/devservice-ora/vn/blob/main/README.md)
 
 ---
 
