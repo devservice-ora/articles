@@ -12,13 +12,15 @@ Knowledge is meant to be shared. *If information is not openly discussed and sha
 ### 1. Educational Philosophy & Theory
 Essays and frameworks exploring foundational pedagogical ideologies, student affairs guidance, and personal teaching frameworks.
 * [A Discussion on Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf)
-* [ Educational Theory & Adult Pedagogy](https://github.com/devservice-ora/presentations#2--educational-theory--adult-pedagogy)
+* [Educational Theory & Adult Pedagogy](https://github.com/devservice-ora/presentations#2--educational-theory--adult-pedagogy)
 * [Educational Philosophy - Perennialism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Perennialism.pdf)
 * [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf)
+* [Educational Philosophy & Research (Comprehensive Exams)](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Exams.pdf)  
 * [Personal Philosophy of Education](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
     > [My Father My Unsung Hero](https://github.com/devservice-ora/articles/blob/main/JPham-My%20Father%20My%20Unsung%20Hero-Published%20%20in%20The%20Valley%20Catholic.pdf "Related to life philosophy and values")    
 * [Philosophies and Values Guiding the Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
 * [The Benefits of Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
+* [Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
 * [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
 ### 2. Educational Technology & *MindTools*
@@ -112,12 +114,10 @@ Practical curriculum frameworks, lesson plans, expert interviews, and profession
 
 ### 9. Historical Context & Reviews
 Biographical text and literary reviews providing foundational background context.
-* [Book Review - Computer Geek to Cult Icon](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
-* [Comprehensive Exams](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Exams.pdf)  
+* [Jim Pham - Autobiography - 2026](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202026.pdf)
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
-* [My Twenty-Five Years Memoir - 2009](https://github.com/devservice-ora/articles/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf)
-* [Mid-Life Career - Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
-* [Collection of Academic & Technical Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
+* [Computer Geek to Cult Icon (Book Review)](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
+* [Collection of Academic & Technical Lectures and Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
 * [A collection of selected articles in Vietnamese](https://github.com/devservice-ora/vn)
 
 ---
