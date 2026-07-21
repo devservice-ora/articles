@@ -11,7 +11,7 @@ Knowledge is meant to be shared. *If information is not stored, discussed openly
 
 ### 1. Educational Philosophy & Theory
 Essays and frameworks exploring foundational pedagogical ideologies, student affairs guidance, and personal teaching frameworks.
-* [A Discussion on Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf)
+* [Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf)
 * [Educational Theory & Adult Pedagogy](https://github.com/devservice-ora/presentations#2--educational-theory--adult-pedagogy)
 * [Educational Philosophy - Perennialism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Perennialism.pdf)
 * [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf)
@@ -118,7 +118,7 @@ Biographical text and literary reviews providing foundational background context
 * [Jim Pham - Autobiography - 2006](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [Computer Geek to Cult Icon (Book Review)](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
 * [Collection of Academic & Technical Lectures and Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
-* [Collection of selected published articles in Vietnamese](https://github.com/devservice-ora/vn/blob/main/README.md)
+* [Collection of Selected Published Articles in Vietnamese](https://github.com/devservice-ora/vn/blob/main/README.md)
 
 ---
 
