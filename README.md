@@ -21,7 +21,8 @@ Essays and frameworks exploring foundational pedagogical ideologies, student aff
 * [Philosophies and Values Guiding the Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
 * [The Benefits of Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
 * [Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
-* [Teaching Statement](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
+* [Statement of Diversity](https://github.com/devservice-ora/articles/blob/main/Statement%20of%20Diversity.pdf)
+* [Statement on Teaching Philosophy](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
 
 ### 2. Educational Technology & *MindTools*
 Research focusing on how digital applications, databases, spreadsheets, and cognitive mapping serve as tools to foster higher-order thinking skills.
