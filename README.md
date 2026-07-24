@@ -2,7 +2,7 @@
 
 This **[GitHub](https://github.com/devservice-ora)** project, *2026*, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. It serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays that document a significant body of work in education, technology integration, and leadership. The goal of this project is to contribute to societal knowledge and disseminate information about artificial intelligence (AI) and its impact on the future of education.
 
-Knowledge is meant to be shared. *If information is not stored, discussed openly, and shared, it is likely to be forgotten over time.* This concept is the essence of the [**Train of Thought Synthesis (TOTS) Learning Model**](https://github.com/devservice-ora/articles/blob/main/README.md#2-educational-technology--mindtools) and this *GitHub* project.
+Knowledge is meant to be shared. *If information is not stored, discussed openly, and shared, it is likely to be forgotten over time.* This concept is the essence of the [**Train of Thought Synthesis (TOTS) Learning Model**](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md) and this *GitHub* project.
 
 > See also [Jim D. Pham's Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
 ---
@@ -114,7 +114,7 @@ Practical curriculum frameworks, lesson plans, expert interviews, and profession
 
 ### 9. Historical Context & Reviews
 Biographical text and literary reviews providing foundational background context.
-* [Future of Technology Development (2026)](https://github.com/devservice-ora/AI/blob/main/Reflection%20on%20AI%20and%20Emerging%20Technologies.pdf)
+* [Artificial Intelligence (AI) and Emerging Technologies (2026)](https://github.com/devservice-ora/AI/blob/main/Reflection%20on%20AI%20and%20Emerging%20Technologies.pdf)
 * [Jim Pham - Autobiography (2026)](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202026.pdf)
 * [Jim Pham - Autobiography (2006)](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [Computer Geek to Cult Icon (Book Review)](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
