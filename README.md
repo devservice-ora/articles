@@ -101,7 +101,7 @@ Research Methodology, Statistical analysis exercises, correlation studies, and c
 * [Qualitative Research - Methodological Journal 3](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%203.pdf)
 * [Qualitative Research - Methodological Journal: Interview Protocol](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%20-%20Interview%20Protocol.pdf)
 * [Qualitative Research - Methodological Journal: Interpretive Narrative](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Methodological%20Journal%20-%20Interpretive%20Narrative.pdf)
-* [Qualitative Research - Reflection](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20-%20Reflection.pdf)
+* [Qualitative Research - Reflection](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20Reflection.pdf)
 * [Qualitative Research - Software Evaluation](https://github.com/devservice-ora/articles/blob/main/Qualitative%20Research%20Software%20Evaluation.pdf)
 
 ### 8. Instructional Design, Assignments & Professional Practice
@@ -124,7 +124,7 @@ Biographical text and literary reviews providing foundational background context
 * [Jim Pham - Autobiography (2006)](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [Computer Geek to Cult Icon (Book Review)](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
 * [Collection of Academic & Technical Lectures and Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
-* [Collection of Selected Published Articles in Vietnamese](https://github.com/devservice-ora/vn/blob/main/README.md)
+* [Collection of Curated Published Articles in Vietnamese](https://github.com/devservice-ora/vn/blob/main/README.md)
 
 ---
 
