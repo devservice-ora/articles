@@ -2,7 +2,7 @@
 
 This [GitHub](https://github.com/devservice-ora) project, *2026*, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. It serves as a comprehensive digital archive of research papers, case studies, instructional designs, and philosophical essays that document a significant body of work in education, technology integration, and leadership. The goal of this project is to contribute to societal knowledge and disseminate information about artificial intelligence (AI) and its impact on the future of education.
 
-**Knowledge** is meant to be shared. *If information is not stored, discussed openly, and shared, it is likely to be forgotten over time.* This concept is the essence of the [Train of Thought Synthesis (TOTS) Learning Model](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md).
+**Knowledge** is meant to be shared. *If information is not stored, discussed openly, and shared, it is likely to be forgotten over time.* This concept is the essence of the [Train of Thought Synthesis (TOTS)](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md) learning model.
 
 This is also consistent with my on [Personal Philosophy](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf") essay (2010), in which I expressed the goal of "helping students develop the problem-solving skills necessary to become competent adults who can thrive in a constantly changing world". Furthermore, I emphasize that students must "select the tools they need to succeed, choosing them based on the situation" (p. 5).
 
@@ -126,6 +126,8 @@ Biographical text and literary reviews providing foundational background context
 * [Jim Pham - Autobiography (2006)](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [Computer Geek to Cult Icon (Book Review)](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
 * [Collection of Academic & Technical Lectures and Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
+* [Collection of Professional and Academic Projects](https://github.com/devservice-ora/projects/blob/main/README.md)
+* [Collection of Programming Projects](https://github.com/devservice-ora/code/blob/main/README.md)
 * [Collection of Curated Published Articles in Vietnamese](https://github.com/devservice-ora/vn/blob/main/README.md)
 
 ---
