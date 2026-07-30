@@ -6,7 +6,7 @@ This [GitHub](https://github.com/devservice-ora) project, *2026*, was created by
 
 This is also consistent with my [Personal Philosophy](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf") essay (2005), in which I expressed the goal of "helping students develop the problem-solving skills necessary to become competent adults who can thrive in a constantly changing world". Furthermore, I emphasize that students must "select the tools they need to succeed, choosing them based on the situation" (p. 5).
 
-At this stage in my academic and professional journey, I draw on over 25 years of experience that includes significant engineering achievements at Oracle, PeopleSoft, and Lockheed Martin. Additionally, I have held long-term positions in higher education, where I have taught computer science at Ohlone College and the Cisco Networking Academy.
+At this stage in my academic and professional journey, I draw on over 25 years of experience that includes significant engineering achievements at Oracle, PeopleSoft, and Lockheed Martin. Additionally, I have held long-term positions in higher education, where I have taught computer science at Ohlone College and the Cisco Networking Academy. I want to contribute to societal knowledge and inspire the future of thinkers.
 
 As a live case study of the **TOTS** learning model, this [*GitHub*](https://github.com/devservice-ora) project and this platform [*totsllc.com*](http://www.totsllc.com/), were architected from scratch, configured with domain hosting in direct collaboration with AI agents, and professionally deployed in under one day. This process highlights the potential of AI as a collaborative partner in educational technology development.
 
