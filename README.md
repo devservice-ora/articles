@@ -4,7 +4,7 @@ This [GitHub](https://github.com/devservice-ora) project, *2026*, was created by
 
 **Knowledge** is meant to be shared. *If information is not stored, discussed openly, and shared, it is likely to be forgotten over time.* This concept is the essence of the [Train of Thought Synthesis (TOTS)](https://github.com/devservice-ora/AI/blob/main/Train_of_Thought%20Synthesis_Learning_Model.md) learning model.
 
-This is also consistent with my [Personal Philosophy](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf") essay (2010), in which I expressed the goal of "helping students develop the problem-solving skills necessary to become competent adults who can thrive in a constantly changing world". Furthermore, I emphasize that students must "select the tools they need to succeed, choosing them based on the situation" (p. 5).
+This is also consistent with my [Personal Philosophy](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf") essay (2005), in which I expressed the goal of "helping students develop the problem-solving skills necessary to become competent adults who can thrive in a constantly changing world". Furthermore, I emphasize that students must "select the tools they need to succeed, choosing them based on the situation" (p. 5).
 
 At this stage in my academic and professional journey, I draw on over 25 years of experience that includes significant engineering achievements at Oracle, PeopleSoft, and Lockheed Martin. Additionally, I have held long-term positions in higher education, where I have taught computer science at Ohlone College and the Cisco Networking Academy.
 
