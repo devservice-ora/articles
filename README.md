@@ -8,7 +8,7 @@ This is also consistent with my [Personal Philosophy](https://github.com/devserv
 
 At this point in my academic and professional journey, I draw on over 25 years of experience, including significant engineering accomplishments at Oracle, PeopleSoft, Lockheed Martin, and Elonex. I have also held long-term positions in higher education, teaching computer science at Ohlone College and the Cisco Networking Academy. *My goal is to contribute to societal knowledge and inspire future thinkers.*
 
-My current work focuses on integrating Agentic AI, autonomous systems, and cognitive scaffolding frameworks—specifically the **TOTS** learning model — to benefit the community. As a practical demonstration of the **TOTS** learning model, I developed a [*GitHub*](https://github.com/devservice-ora) project and the platform [*totsllc.com*](http://www.totsllc.com/) from the ground up. This involved configuring domain hosting in direct collaboration with AI agents, and we successfully deployed both in less than a day. This experience showcases the potential of AI as a collaborative partner in the development of educational technology.
+My current work focuses on integrating **Agentic AI**, autonomous systems, and cognitive scaffolding frameworks—specifically the **TOTS** learning model — to benefit the community. As a practical demonstration of the **TOTS** learning model, I developed a [*GitHub*](https://github.com/devservice-ora) project and the platform [*totsllc.com*](http://www.totsllc.com/) from the ground up. This involved configuring domain hosting in direct collaboration with AI agents, and we successfully deployed both in less than a day. This experience showcases the potential of AI as a collaborative partner in the development of educational technology.
 
 > **See also**: Jim D. Pham's [Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
 ---
@@ -126,8 +126,8 @@ Biographical text and literary reviews providing foundational background context
 * [Jim Pham - Autobiography (2006)](https://github.com/devservice-ora/articles/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [Computer Geek to Cult Icon (Book Review)](https://github.com/devservice-ora/articles/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
 * [Collection of Academic & Technical Lectures and Presentations](https://github.com/devservice-ora/presentations/blob/main/README.md)
-* [Collection of Professional and Academic Projects](https://github.com/devservice-ora/projects/blob/main/README.md)
 * [Collection of Programming Projects](https://github.com/devservice-ora/code/blob/main/README.md)
+* [Collection of Professional and Academic Projects](https://github.com/devservice-ora/projects/blob/main/README.md)
 * [Collection of Curated Published Articles in Vietnamese](https://github.com/devservice-ora/vn/blob/main/README.md)
 
 ---
