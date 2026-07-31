@@ -10,7 +10,8 @@ At this point in my academic and professional journey, I draw on over 25 years o
 
 My current work focuses on integrating **Agentic AI**, autonomous systems, and cognitive scaffolding frameworks, specifically the **TOTS** learning model, to benefit the community. As a practical demonstration of the **TOTS** learning model, I developed a [*GitHub*](https://github.com/devservice-ora) project and built the platform [*totsllc.com*](http://www.totsllc.com/) from the ground up. This involved web application development and configuring domain hosting in direct collaboration with AI agents.  I successfully deployed the platform to the **cloud** in less than a day. This experience showcases the potential of AI as a collaborative partner in the development of educational technology.
 
-> **See also**: Jim D. Pham's [Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
+**See also**: Jim D. Pham's [Professional Porfolio](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) for more information.
+
 ---
 
 ## 📚 Repository Structure by Theme
