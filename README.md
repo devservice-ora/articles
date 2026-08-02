@@ -19,14 +19,16 @@ My current work focuses on integrating **Agentic AI**, autonomous systems, and c
 ### 1. Educational Philosophy & Theory
 Essays and frameworks exploring foundational pedagogical ideologies, student affairs guidance, and personal teaching frameworks.
 * [Discovery School](https://github.com/devservice-ora/articles/blob/main/A%20Discussion%20on%20Discovery%20School.pdf)
+* [Educational Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
 * [Educational Theory & Adult Pedagogy](https://github.com/devservice-ora/presentations#2--educational-theory--adult-pedagogy)
+* [Educational Philosophy of Leadership Styles](https://github.com/devservice-ora/articles/blob/main/Philosophy%20of%20Leadership%20Styles.pdf)
 * [Educational Philosophy - Perennialism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Perennialism.pdf)
 * [Educational Philosophy - Progressivism](https://github.com/devservice-ora/articles/blob/main/Educational%20Philosophy%20-%20Progressivism.pdf)
-* [Educational Philosophy & Research (Comprehensive Exams)](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Exams.pdf)  
+* [Educational Strategic Choice Theory](https://github.com/devservice-ora/articles/blob/main/Strategic%20Choice%20Theory.pdf)
+* [Educational Philosophy & Research (Comprehensive Exams)](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Exams.pdf)
 * [Personal Philosophy of Education](https://github.com/devservice-ora/articles/blob/main/Personal%20Philosophy%20of%20Education.pdf "Personal Philosophy of Education")
-    > [*My Father My Unsung Hero*](https://github.com/devservice-ora/articles/blob/main/JPham-My%20Father%20My%20Unsung%20Hero-Published%20%20in%20The%20Valley%20Catholic.pdf "This article pertains to my personal philosophy and values.")    
+    > [*My Father My Unsung Hero*](https://github.com/devservice-ora/articles/blob/main/JPham-My%20Father%20My%20Unsung%20Hero-Published%20%20in%20The%20Valley%20Catholic.pdf "This article pertains to my personal philosophy and values.")
 * [Philosophies and Values Guiding the Student Affairs Professional](https://github.com/devservice-ora/articles/blob/main/Philosophies%20And%20Values%20Guiding%20The%20Student%20Affairs%20Professional.pdf)
-* [The Benefits of Constructivist Approaches for Primary Learners](https://github.com/devservice-ora/articles/blob/main/The%20benefits%20of%20constructivist%20approaches%20for%20primary%20learners.pdf)
 * [Continuous Learning](https://github.com/devservice-ora/articles/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
 * [Statement of Diversity](https://github.com/devservice-ora/articles/blob/main/Statement%20of%20Diversity.pdf)
 * [Statement on Teaching Philosophy](https://github.com/devservice-ora/articles/blob/main/Teaching%20Statement.pdf)
@@ -64,8 +66,6 @@ Case studies and strategic analyses regarding institutional finance, the change 
 * [Budget Philosophy - New Ways to Work, Learn, and Teach](https://github.com/devservice-ora/articles/blob/main/Budget%20Philosophy%20-%20New%20Ways%20To%20Work%20Learn%20and%20Teach.pdf)
 * [Examination of the history, development, and evolution of leadership in the literature of educational research](https://github.com/devservice-ora/articles/blob/main/Comprehensive%20Examination-question-2.pdf)
 * [Leadership Case Study of a New High School](https://github.com/devservice-ora/articles/blob/main/Leadership%20Case%20Study%20-%20New%20High%20School.pdf)
-* [Philosophy of Leadership Styles](https://github.com/devservice-ora/articles/blob/main/Philosophy%20of%20Leadership%20Styles.pdf)
-* [Strategic Choice Theory](https://github.com/devservice-ora/articles/blob/main/Strategic%20Choice%20Theory.pdf)
 * [Strategic Planning and Finance](https://github.com/devservice-ora/articles/blob/main/Strategic%20Planning%20and%20Finance.pdf)
 * [Synthesis Case Study: Change Process and Instructional Design](https://github.com/devservice-ora/articles/blob/main/The%20case%20study%20that%20synthesizes%20your%20knowledge%20of%20the%20change%20process%2C%20knowledge%20of%20instructional%20design.pdf)
 
