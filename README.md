@@ -68,6 +68,7 @@ Case studies and strategic analyses regarding institutional finance, the change 
 * [Leadership Case Study of a New High School](https://github.com/devservice-ora/articles/blob/main/Leadership%20Case%20Study%20-%20New%20High%20School.pdf)
 * [Strategic Planning and Finance](https://github.com/devservice-ora/articles/blob/main/Strategic%20Planning%20and%20Finance.pdf)
 * [Synthesis Case Study: Change Process and Instructional Design](https://github.com/devservice-ora/articles/blob/main/The%20case%20study%20that%20synthesizes%20your%20knowledge%20of%20the%20change%20process%2C%20knowledge%20of%20instructional%20design.pdf)
+* [**Google NotebookLM**: Google NotebookLM: Audio Overview of My Paper on Organizational Change](https://github.com/devservice-ora/articles/blob/main/Organizational_Change_Audio_Overview-2026.md)
 
 ### 5. Institutional Design, Student Affairs & Higher Ed
 Documents addressing the structural shifting toward "Learning Colleges," academic advising protocols, student rights, and electronic student services.
